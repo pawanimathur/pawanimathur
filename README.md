@@ -42,5 +42,5 @@ Completed internship at CARS24 as a Marketing Analyst, working with real-world s
 
 ## 📫 Connect
 
-LinkedIn: linkedin.com/in/pawani-mathur-980628302 
+🔗 [LinkedIn Profile](https://linkedin.com/in/pawani-mathur-980628302)
 
