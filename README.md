@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Pawani Mathur 👋
 
-<!--
-**pawanimathur/pawanimathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Business Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+Business Analytics graduate with hands-on experience in data analysis, visualization, and reporting.
+
+Completed internship at CARS24 as a Marketing Analyst, working with real-world survey data, performing data cleaning, and building dashboards for business insights.
+
+---
+
+## 🔧 Skills
+
+* SQL (MySQL)
+* Power BI
+* Excel
+* Tableau
+* Data Cleaning
+* Dashboard Development
+
+---
+
+## 📊 Project
+
+### Tata Data Visualisation
+
+* Revenue trends
+* Top markets & customers
+* Global demand insights
+
+---
+
+## 📜 Certifications
+
+* Power BI – Microsoft Press
+* MySQL Certification
+
+---
+
+## 📫 Connect
+
+LinkedIn: linkedin.com/in/pawani-mathur-980628302 
+
