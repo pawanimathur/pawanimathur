@@ -33,6 +33,12 @@ Currently building end-to-end analytics projects using SQL and Power BI to analy
 * Top markets & customers
 * Global demand insights
 
+* Global demand insights  
+
+🔗 [View Tata Data Visualization Project](https://github.com/pawanimathur/tata-data-visualization)
+
+---
+
 ### E-commerce Analytics Project
 * Built an end-to-end analytics project using SQL and Power BI
 * Analyzed customer behavior and marketing performance
