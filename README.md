@@ -67,7 +67,7 @@ Actively seeking entry-level Data Analyst / Business Analyst roles to apply anal
 * Power BI for Data Analytics | LinkedIn Learning  
 * Tata Data Visualisation Simulation | Forage  
 
-🔗 [View All Certificates](https://your-link-here)
+🔗 [View Certificates](https://github.com/pawanimathur/certificates)
 ---
 
 ## 📫 Connect
