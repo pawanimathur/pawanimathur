@@ -1,26 +1,29 @@
 # Hi, I'm Pawani Mathur 👋
 
-🎯 Aspiring Data Analyst | SQL • Power BI • Excel
+🎯 Entry-Level Data Analyst | SQL • Power BI • Python | Turning Data into Business Insights
 
 ---
 
 ## 💼 About Me
 
-Business Analytics graduate with hands on experience in data analysis, visualization, and reporting.
+Business Analytics graduate with hands on experience in data analysis, dashboard development, and machine learning.
 
-Completed a Market Analyst internship at CARS24, where I worked with real world survey data, performed data cleaning, and built dashboards to generate actionable business insights.
+Completed a Market Analyst internship at Cars24, where I worked with real world survey data, cleaned datasets, and built dashboards to generate actionable insights.
 
-Currently building end-to-end analytics projects using SQL and Power BI to analyze customer behavior and support data-driven decision-making.
+Built end-to-end projects using SQL, Power BI, and Python, including customer churn prediction and business analytics dashboards.
+
+Actively seeking entry-level Data Analyst / Business Analyst roles to apply analytical skills and contribute to data-driven decision-making.
 
 ---
 
 ## 🔧 Skills
 
-* SQL (MySQL)
-* Power BI (Power Query, DAX)
-* Excel
-* Tableau
-* Data Cleaning
+* ### 🛠 Skills
+* SQL (MySQL, Joins, Aggregations)
+* Power BI (DAX, Power Query, Dashboarding)
+* Python (Pandas, NumPy, Basic ML)
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
 * Dashboard Development
 
 ---
@@ -50,12 +53,21 @@ Currently building end-to-end analytics projects using SQL and Power BI to analy
 
 ---
 
+### Customer Churn Prediction  
+- Built Logistic Regression model (~81% accuracy)  
+- Identified key churn drivers (tenure, contract type)
+🔗 [View Project](https://github.com/pawanimathur/customer-churn-analysis)
+
+---
+
 ## 📜 Certifications
 
-* Power BI Certification – Microsoft
-* SQL (MySQL) Certification – LinkedIn Learning
-* Tata - Data Visualisation: Empowering Business with Effective Insights Job Simulation | Forage
-* Data Analysis with R Programming | Google 
+* SQL for Data Analysis | LinkedIn Learning  
+* Data Analysis with R Programming | Google (Coursera)  
+* Power BI for Data Analytics | LinkedIn Learning  
+* Tata Data Visualisation Simulation | Forage  
+
+🔗 [View All Certificates](https://your-link-here)
 ---
 
 ## 📫 Connect
