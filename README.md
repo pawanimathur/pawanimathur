@@ -35,7 +35,6 @@ Actively seeking entry-level Data Analyst / Business Analyst roles to apply anal
 * Revenue trends
 * Top markets & customers
 * Global demand insights
-
 * Global demand insights  
 
 🔗 [View Tata Data Visualization Project](https://github.com/pawanimathur/tata-data-visualization)
@@ -43,6 +42,7 @@ Actively seeking entry-level Data Analyst / Business Analyst roles to apply anal
 ---
 
 ### E-commerce Analytics Project
+
 * Built an end-to-end analytics project using SQL and Power BI
 * Analyzed customer behavior and marketing performance
 * Identified trends in user activity and traffic sources
@@ -54,8 +54,10 @@ Actively seeking entry-level Data Analyst / Business Analyst roles to apply anal
 ---
 
 ### Customer Churn Prediction  
-- Built Logistic Regression model (~81% accuracy)  
-- Identified key churn drivers (tenure, contract type)
+
+* Built Logistic Regression model (81% accuracy)  
+* Identified key churn drivers (tenure, contract type)
+  
 🔗 [View Project](https://github.com/pawanimathur/customer-churn-analysis)
 
 ---
