@@ -1,6 +1,6 @@
 # Hi, I'm Pawani Mathur 👋
 
-🎯 Entry-Level Data Analyst | SQL • Power BI • Python | Turning Data into Business Insights
+🎯 Entry-Level Data Analyst | SQL • Power BI • Python • Tableau | Turning Data into Business Insights
 
 ---
 
